@@ -1,2 +1,2 @@
 import streamlit
-streamlit.title('Subhansu lives in Banglore daysss')
+streamlit.title('Hey welcome to the world of Analytics')
