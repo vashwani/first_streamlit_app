@@ -1,5 +1,5 @@
 import streamlit
-streamlit.title('Welcome to the Factspan')
+streamlit.title('Welcome to Factspan Inc.')
 streamlit.header('Services provided by us:')
 streamlit.text('AI & ML')
 streamlit.text('Cloud Data Build')
