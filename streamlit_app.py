@@ -2,7 +2,7 @@ import streamlit
 import pandas
 import requests
 import snowflake.connector
-from urllib.error impot URLError
+from urllib.error import URLError
 streamlit.title('Welcome to Factspan Inc.')
 streamlit.header('Services provided by us:')
 streamlit.text('AI & ML')
