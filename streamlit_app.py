@@ -49,4 +49,4 @@ streamlit.dataframe(my_data_rows)
 
 streamlit.write('thanks for adding', add_my_fruit)
 #this will not work correctly but go with it for now
-my_cur.execute(" insert into fruit_load_list values ('from streamlit')")
+my_cur.execute(" insert into fruit_load_list values 'from streamlit'")
